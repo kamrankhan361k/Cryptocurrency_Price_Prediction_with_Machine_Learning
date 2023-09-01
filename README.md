@@ -1,1 +1,3 @@
 # Cryptocurrency_Price_Prediction_with_Machine_Learning
+
+I’ll start the task of Cryptocurrency price prediction by importing the necessary Python libraries and the dataset we need. For this task, I will collect the latest Bitcoin prices data from Yahoo Finance(https://finance.yahoo.com/?guccounter=1&guce_referrer=aHR0cHM6Ly90aGVjbGV2ZXJwcm9ncmFtbWVyLmNvbS8&guce_referrer_sig=AQAAAAJUv8SLLxmc26Hirx5R0qgo4Fny6_kSLVcSfmf1yDXvODoDs4UX3OJtyCEutf9gMr3x4q7q57rGPqXnYcey3Df7fqRrtPfkBCkzF4i0zKfJAoyhjg0YuK-R9rfRU7d-DZA3eVl3UgoIKmX3qK6MHjOyt9_wdtYc9AGHAYuWQGsE), using the yfinance API. This will help you collect the latest data each time you run this code:
